@@ -41,7 +41,7 @@ h1 {
 .header {
     border-radius: 5px 5px 0 0;
     padding: 40px;
-    background-image: linear-gradient(340deg, #e91f04 0%, #e9f909 100%);
+    background-image: linear-gradient(340deg, #1b0303 0%, #173864 100%);
 }
 
 .todo-input {
